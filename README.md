@@ -1,11 +1,10 @@
 #MODEBI
 
-最新版(https://github.com/yet103/MODEBI/releases/download/v1.170423/MODEBI_1.170423.zip)
+[最新版](https://github.com/yet103/MODEBI/releases/download/v1.170423/MODEBI_1.170423.zip)
 
 ## MODEBI
 開発者の関根さんのご厚意により保守移管していただき拡張をさせていただいております。
-
-オリジナル版MODEBI(http://www.modebi.jp/)
+[本家サイト](http://www.modebi.jp/)
 
 ## オリジナルからの更新差分
 * 2016/11/18 リソースのHDR-DTLに対応

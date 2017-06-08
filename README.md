@@ -1,3 +1,7 @@
+#MODEBI
+
+最新版(https://github.com/yet103/MODEBI/releases/download/v1.170423/MODEBI_1.170423.zip)
+
 ## MODEBI
 開発者の関根さんのご厚意により保守移管していただき拡張をさせていただいております。
 

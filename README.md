@@ -36,5 +36,5 @@ TM法(T字形ER)によるデータモデル作図ツールです。
 * CTRLを押しながらドラッグすると、10倍速スクロールとなります  
 
 ### チュートリアル
-![step01_ラピュタ作成](https://github.com/yet103/MODEBI/blob/master/manual/step01_%E3%83%A9%E3%83%94%E3%83%A5%E3%82%BF%E4%BD%9C%E6%88%90.gif "step01_ラピュタ作成")
+![tutorial.gif](https://github.com/yet103/MODEBI/blob/master/manual/tutorial.gif "tutorial.gif")
 

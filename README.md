@@ -44,5 +44,5 @@ TM法(T字形ER)によるモデル作成ツールです。
 
 
 ### 動作イメージ
-![tutorial.gif](https://github.com/yet103/MODEBI/blob/master/manual/tutorial.gif "tutorial.gif")
+* ![tutorial.gif](https://github.com/yet103/MODEBI/blob/master/manual/tutorial.gif "tutorial.gif")
 

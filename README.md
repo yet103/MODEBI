@@ -1,13 +1,16 @@
 # MODEBI
   
-[最新版ダウンロード](https://github.com/yet103/MODEBI/releases)※.Net Framework3.5以上必要
-
-
-
 MODEL-builder 通称 『モデビ』  
 TM法(T字形ER)によるモデル作成ツールです。  
 開発者である[モデビ株式会社 関根浩史様](http://www.modebi.jp/)  
 のご厚意により保守移管していただき拡張させていただいてます。  
+
+## ダウンロード  
+* https://github.com/yet103/MODEBI/releases  
+
+## 動作要件  
+* .Net Framework3.5以上必要  
+* MS Windows7で動作確認済み  
 
 ## 操作説明 
 
@@ -36,8 +39,9 @@ TM法(T字形ER)によるモデル作成ツールです。
   表示したい場合はHDR-DTL作成後　スーパーセットの箱を作成してサブセットの関係を付加して下さい  
 * CTRLを押しながらドラッグすると、10倍速スクロールとなります  
 
-### チュートリアル
-* [MODEBIによるモデル作成の手引き](https://github.com/yet103/MODEBI/blob/master/manual/MODEBI%E3%81%AB%E3%82%88%E3%82%8B%E3%83%A2%E3%83%87%E3%83%AB%E4%BD%9C%E6%88%90%E3%81%AE%E6%89%8B%E5%BC%95%E3%81%8D.pdf)  
+### モデル作成の手引き
+* https://github.com/yet103/MODEBI/blob/master/manual/MODEBIによるモデル作成の手引き.pdf
+
 
 ### 動作イメージ
 ![tutorial.gif](https://github.com/yet103/MODEBI/blob/master/manual/tutorial.gif "tutorial.gif")
